@@ -1,0 +1,44 @@
+# descriptive: find it and understand it
+id: horse
+title: Standing horse
+description: A stallion standing in profile and facing left, with a short upright mane, a long flowing tail reaching the ground and one hind leg raised. Black woodcut line on the beige paper tone of the page, which is kept inside the outline; the background outside the figure is transparent.
+type: illustration
+categories:
+  - animals
+subjects:
+  - horse
+colors:
+  - beige
+  - brown
+  - black
+facing: left
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+render:
+  image: {}
+usage_notes:
+  - The paper tone inside the figure is kept, so it reads as a cut-out of the printed page; place it on a light or mid-toned ground.
+display_width:
+  - 320
+  - 900
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Printed text from the other side of the leaf shows through the body, and a faint yellow stain sits on the neck.
+master: master.png
+provenance:
+  method: ai-assisted-source-mask
+  institution: Zentralbibliothek Zürich
+  object_title: "Gessner, Historiae animalium: De equo."
+  object_identifier: "5.1: a-5.3; image 626896; section De equo."
+  date: 1551–1587
+  record_url: https://www.e-rara.ch/zuz/content/pageview/626896
+  image_url: https://www.e-rara.ch/i3f/v20/626896/full/full/0/default.jpg
+  image_rights: LicenseRef-PDM
+  rights_url: https://www.e-rara.ch/zuz/content/titleinfo/637105
+  source_sha256: bdb76be1e8bb533a330049a50f7d9fd8da275b9198923c2aa54606f1c1b310f9
+license: null

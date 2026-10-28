@@ -1,0 +1,43 @@
+# descriptive: find it and understand it
+id: fox
+title: Seated fox
+description: A fox sitting on its haunches and facing right, with pointed ears, a narrow whiskered muzzle, shaggy hatched fur and a long bushy tail stretched out along the ground to the left. Black woodcut line on the beige paper tone of the page, which is kept inside the outline; the background outside the figure is transparent.
+type: illustration
+categories:
+  - animals
+subjects:
+  - fox
+colors:
+  - beige
+  - brown
+  - black
+facing: right
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+render:
+  image: {}
+usage_notes:
+  - The paper tone inside the figure is kept, so it reads as a cut-out of the printed page; place it on a light or mid-toned ground.
+display_width:
+  - 320
+  - 900
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-source-mask
+  institution: Zentralbibliothek Zürich
+  object_title: "Gessner, Historiae animalium: De vulpe."
+  object_identifier: "5.1: a-5.3; image 627534; section De vulpe."
+  date: 1551–1587
+  record_url: https://www.e-rara.ch/zuz/content/pageview/627534
+  image_url: https://www.e-rara.ch/i3f/v20/627534/full/full/0/default.jpg
+  image_rights: LicenseRef-PDM
+  rights_url: https://www.e-rara.ch/zuz/content/titleinfo/637105
+  source_sha256: bd742a3cc7d9655c2dd1efe83b5bc8ef24bb68ef7ad03eea3d19603138ceddcd
+license: null

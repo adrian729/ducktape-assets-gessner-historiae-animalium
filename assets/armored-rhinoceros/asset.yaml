@@ -1,0 +1,44 @@
+# descriptive: find it and understand it
+id: armored-rhinoceros
+title: Armoured rhinoceros
+description: A rhinoceros walking to the left in profile, its body covered in plated armour with scalloped edges, mail-like hatching on the legs, a single horn on the nose and a small twisted horn on the shoulder, after Dürer's 1515 woodcut. Black woodcut line on the beige paper tone of the page, which is kept inside the outline; the background outside the figure is transparent.
+type: illustration
+categories:
+  - animals
+subjects:
+  - rhinoceros
+colors:
+  - beige
+  - brown
+  - black
+facing: left
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+render:
+  image: {}
+usage_notes:
+  - The paper tone inside the figure is kept, so it reads as a cut-out of the printed page; place it on a light or mid-toned ground.
+display_width:
+  - 320
+  - 900
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: A small brown foxing spot on the near front foot.
+master: master.png
+provenance:
+  method: ai-assisted-source-mask
+  institution: Zentralbibliothek Zürich
+  object_title: "Gessner, Historiae animalium: De rhinocerote."
+  object_identifier: "5.1: a-5.3; image 627406; section De rhinocerote."
+  date: 1551–1587
+  record_url: https://www.e-rara.ch/zuz/content/pageview/627406
+  image_url: https://www.e-rara.ch/i3f/v20/627406/full/full/0/default.jpg
+  image_rights: LicenseRef-PDM
+  rights_url: https://www.e-rara.ch/zuz/content/titleinfo/637105
+  source_sha256: e4e68a9ea8ead1ec2e195dee4cdf16193206a8766e31d416ec706665e11969d8
+license: null

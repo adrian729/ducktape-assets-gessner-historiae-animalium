@@ -1,0 +1,44 @@
+# descriptive: find it and understand it
+id: pear
+title: Pear with curved stalk
+description: A tiny pear hanging from a stem that continues upward into a short curve ending in a knob where the stalk joined the branch, taken from the decorated initial L of the lion chapter. Dark brown printed ink only, a few dozen pixels across; the paper is removed and the background is transparent.
+type: ornament
+categories:
+  - botanical
+subjects:
+  - pear
+colors:
+  - brown
+  - black
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+render:
+  image: {}
+related:
+  - { asset: gessner-historiae-animalium/grapes, role: companion }
+usage_notes:
+  - Render at or below the master's pixel size; it blurs when enlarged.
+  - Ink only, so it sits on any ground; the curved stalk closes the piece, so it stands alone better than the cropped variant.
+display_width:
+  - 24
+  - 45
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Zentralbibliothek Zürich
+  object_title: "Gessner, Historiae animalium: De leone."
+  object_identifier: "5.1: a-5.3; image 627095; section De leone."
+  date: 1551–1587
+  record_url: https://www.e-rara.ch/zuz/content/pageview/627095
+  image_url: https://www.e-rara.ch/i3f/v20/627095/full/full/0/default.jpg
+  image_rights: LicenseRef-PDM
+  rights_url: https://www.e-rara.ch/zuz/content/titleinfo/637105
+  source_sha256: 6e1d1022b4d3d1e03e77da2f3b87942a67558c62afaff5aa43fdd2f75b2e7716
+license: null

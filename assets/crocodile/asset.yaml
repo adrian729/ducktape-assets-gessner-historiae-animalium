@@ -1,0 +1,45 @@
+# descriptive: find it and understand it
+id: crocodile
+title: Crocodile
+description: A crocodile seen from above and slightly from the side, its head at the left with the jaws wide open to show rows of teeth, four splayed legs, a back of square plates and a long ringed tail curling up to the right. Black woodcut line on the beige paper tone of the page, which is kept inside the outline; the background outside the figure is transparent.
+type: illustration
+categories:
+  - animals
+subjects:
+  - crocodile
+colors:
+  - beige
+  - brown
+  - black
+facing: left
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+render:
+  image: {}
+usage_notes:
+  - The paper tone inside the figure is kept, so it reads as a cut-out of the printed page; place it on a light or mid-toned ground.
+  - Wide strip (about 2.4:1) that works as a footer or title band.
+display_width:
+  - 320
+  - 900
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Narrow strips of bare paper remain outside the ink at the jaws and along the tail tip.
+master: master.png
+provenance:
+  method: ai-assisted-source-mask
+  institution: Zentralbibliothek Zürich
+  object_title: "Gessner, Historiae animalium: De crocodilo."
+  object_identifier: "5.1: a-5.3; image 2119273; section De crocodilo."
+  date: 1551–1587
+  record_url: https://www.e-rara.ch/zuz/content/pageview/2119273
+  image_url: https://www.e-rara.ch/i3f/v20/2119273/full/full/0/default.jpg
+  image_rights: LicenseRef-PDM
+  rights_url: https://www.e-rara.ch/zuz/content/titleinfo/637105
+  source_sha256: 99738440b38921d3fd68abe99f8ee6f7270a86f29eb96261f0b060067996a91b
+license: null

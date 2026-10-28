@@ -1,0 +1,44 @@
+# descriptive: find it and understand it
+id: beaver
+title: Beaver
+description: A beaver walking to the right in profile with its mouth open to show the long incisors, dense hatched fur, clawed feet and the flat scaly paddle tail trailing to the left. Black woodcut line on the beige paper tone of the page, which is kept inside the outline; the background outside the figure is transparent.
+type: illustration
+categories:
+  - animals
+subjects:
+  - beaver
+colors:
+  - beige
+  - brown
+  - black
+facing: right
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+render:
+  image: {}
+usage_notes:
+  - The paper tone inside the figure is kept, so it reads as a cut-out of the printed page; place it on a light or mid-toned ground.
+  - Wide strip (about 2.5:1) that works as a footer or title band.
+display_width:
+  - 320
+  - 900
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-source-mask
+  institution: Zentralbibliothek Zürich
+  object_title: "Gessner, Historiae animalium: De castore."
+  object_identifier: "5.1: a-5.3; image 626789; section De castore."
+  date: 1551–1587
+  record_url: https://www.e-rara.ch/zuz/content/pageview/626789
+  image_url: https://www.e-rara.ch/i3f/v20/626789/full/full/0/default.jpg
+  image_rights: LicenseRef-PDM
+  rights_url: https://www.e-rara.ch/zuz/content/titleinfo/637105
+  source_sha256: e2160fb6f15897c1c57a3cb454c240893f3d641fcdb37e5ac11cd0b8193d2e47
+license: null
